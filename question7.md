@@ -1,0 +1,3 @@
+source : https://www.glassdoor.co.uk/Interview/Skyscanner-Graduate-Software-Engineer-Interview-Questions-EI_IE437400.0,10_KO11,37.htm#InterviewReview_10582766
+
+The first question was: Given a file containing the description of seats on a plane, implement an algorithm that finds the cheapest N consecutive seats on the same row. The input file give the position of each seat, wether they are already taken and the price of the seat. Additionally, the value of N is provided.  
